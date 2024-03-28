@@ -1,0 +1,7 @@
+{
+  "name": "MyWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
